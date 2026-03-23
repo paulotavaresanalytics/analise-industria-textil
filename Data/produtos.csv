@@ -1,0 +1,16 @@
+sku,produto,categoria,colecao,custo_unitario,preco_venda
+TX001,Camiseta Básica Premium,Camisetas,Verão 2025,22.5,49.9
+TX002,Regata Canelada,Regatas,Verão 2025,18.0,44.9
+TX003,Shorts Jeans Urban,Shorts,Verão 2025,35.0,79.9
+TX004,Vestido Midi Floral,Vestidos,Primavera 2025,48.0,119.9
+TX005,Camisa Linho Office,Camisas,Primavera 2025,42.0,99.9
+TX006,Saia Plissada Soft,Saias,Primavera 2025,38.5,89.9
+TX007,Jaqueta Jeans Classic,Jaquetas,Outono 2025,70.0,159.9
+TX008,Calça Sarja Slim,Calças,Outono 2025,52.0,119.9
+TX009,Moletom Essential,Moletons,Outono 2025,45.0,109.9
+TX010,Casaco Lã Blend,Casacos,Inverno 2025,92.0,219.9
+TX011,Blusa Tricô Cozy,Tricôs,Inverno 2025,50.0,129.9
+TX012,Calça Térmica Flex,Calças,Inverno 2025,58.0,139.9
+TX013,Polo Casual Fit,Polos,Linha Contínua,28.0,64.9
+TX014,Calça Jeans Reta,Calças,Linha Contínua,46.0,104.9
+TX015,Camiseta Oversized Trend,Camisetas,Linha Contínua,26.0,59.9

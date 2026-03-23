@@ -1,0 +1,181 @@
+mes,sku,quantidade_devolvida,motivo
+2025-01,TX001,7,Tamanho inadequado
+2025-02,TX001,8,Tamanho inadequado
+2025-03,TX001,8,Defeito de costura
+2025-04,TX001,4,Defeito de costura
+2025-05,TX001,4,Troca por cor/modelo
+2025-06,TX001,5,Troca por cor/modelo
+2025-07,TX001,2,Tamanho inadequado
+2025-08,TX001,4,Tamanho inadequado
+2025-09,TX001,2,Tamanho inadequado
+2025-10,TX001,5,Tamanho inadequado
+2025-11,TX001,5,Troca por cor/modelo
+2025-12,TX001,5,Troca por cor/modelo
+2025-01,TX002,9,Defeito de costura
+2025-02,TX002,9,Defeito de costura
+2025-03,TX002,9,Defeito de costura
+2025-04,TX002,6,Defeito de costura
+2025-05,TX002,4,Tamanho inadequado
+2025-06,TX002,6,Tamanho inadequado
+2025-07,TX002,3,Defeito de costura
+2025-08,TX002,4,Tamanho inadequado
+2025-09,TX002,3,Tamanho inadequado
+2025-10,TX002,5,Defeito de costura
+2025-11,TX002,6,Tamanho inadequado
+2025-12,TX002,6,Tamanho inadequado
+2025-01,TX003,8,Tamanho inadequado
+2025-02,TX003,8,Tamanho inadequado
+2025-03,TX003,8,Defeito de costura
+2025-04,TX003,4,Tamanho inadequado
+2025-05,TX003,5,Tamanho inadequado
+2025-06,TX003,5,Tamanho inadequado
+2025-07,TX003,3,Tamanho inadequado
+2025-08,TX003,3,Tamanho inadequado
+2025-09,TX003,3,Defeito de costura
+2025-10,TX003,4,Troca por cor/modelo
+2025-11,TX003,5,Avaria no transporte
+2025-12,TX003,4,Tamanho inadequado
+2025-01,TX004,4,Troca por cor/modelo
+2025-02,TX004,2,Troca por cor/modelo
+2025-03,TX004,4,Troca por cor/modelo
+2025-04,TX004,3,Tamanho inadequado
+2025-05,TX004,5,Troca por cor/modelo
+2025-06,TX004,3,Defeito de costura
+2025-07,TX004,3,Tamanho inadequado
+2025-08,TX004,5,Troca por cor/modelo
+2025-09,TX004,4,Tamanho inadequado
+2025-10,TX004,6,Tamanho inadequado
+2025-11,TX004,9,Tamanho inadequado
+2025-12,TX004,5,Tamanho inadequado
+2025-01,TX005,3,Troca por cor/modelo
+2025-02,TX005,2,Tamanho inadequado
+2025-03,TX005,3,Tamanho inadequado
+2025-04,TX005,4,Tamanho inadequado
+2025-05,TX005,4,Tamanho inadequado
+2025-06,TX005,3,Tamanho inadequado
+2025-07,TX005,4,Tamanho inadequado
+2025-08,TX005,4,Defeito de costura
+2025-09,TX005,3,Avaria no transporte
+2025-10,TX005,7,Defeito de costura
+2025-11,TX005,4,Troca por cor/modelo
+2025-12,TX005,6,Defeito de costura
+2025-01,TX006,2,Tamanho inadequado
+2025-02,TX006,2,Tamanho inadequado
+2025-03,TX006,3,Tamanho inadequado
+2025-04,TX006,2,Troca por cor/modelo
+2025-05,TX006,4,Tamanho inadequado
+2025-06,TX006,2,Tamanho inadequado
+2025-07,TX006,2,Defeito de costura
+2025-08,TX006,3,Defeito de costura
+2025-09,TX006,2,Tamanho inadequado
+2025-10,TX006,5,Tamanho inadequado
+2025-11,TX006,4,Tamanho inadequado
+2025-12,TX006,7,Tamanho inadequado
+2025-01,TX007,3,Troca por cor/modelo
+2025-02,TX007,2,Defeito de costura
+2025-03,TX007,2,Tamanho inadequado
+2025-04,TX007,3,Defeito de costura
+2025-05,TX007,3,Tamanho inadequado
+2025-06,TX007,4,Tamanho inadequado
+2025-07,TX007,3,Tamanho inadequado
+2025-08,TX007,3,Troca por cor/modelo
+2025-09,TX007,2,Troca por cor/modelo
+2025-10,TX007,3,Tamanho inadequado
+2025-11,TX007,3,Tamanho inadequado
+2025-12,TX007,4,Troca por cor/modelo
+2025-01,TX008,6,Tamanho inadequado
+2025-02,TX008,5,Tamanho inadequado
+2025-03,TX008,4,Defeito de costura
+2025-04,TX008,7,Defeito de costura
+2025-05,TX008,6,Tamanho inadequado
+2025-06,TX008,9,Troca por cor/modelo
+2025-07,TX008,6,Tamanho inadequado
+2025-08,TX008,4,Tamanho inadequado
+2025-09,TX008,5,Troca por cor/modelo
+2025-10,TX008,6,Defeito de costura
+2025-11,TX008,6,Avaria no transporte
+2025-12,TX008,5,Tamanho inadequado
+2025-01,TX009,3,Troca por cor/modelo
+2025-02,TX009,3,Tamanho inadequado
+2025-03,TX009,2,Avaria no transporte
+2025-04,TX009,6,Tamanho inadequado
+2025-05,TX009,6,Tamanho inadequado
+2025-06,TX009,4,Tamanho inadequado
+2025-07,TX009,5,Defeito de costura
+2025-08,TX009,2,Defeito de costura
+2025-09,TX009,5,Tamanho inadequado
+2025-10,TX009,4,Troca por cor/modelo
+2025-11,TX009,3,Tamanho inadequado
+2025-12,TX009,4,Troca por cor/modelo
+2025-01,TX010,1,Troca por cor/modelo
+2025-02,TX010,1,Defeito de costura
+2025-03,TX010,2,Tamanho inadequado
+2025-04,TX010,3,Defeito de costura
+2025-05,TX010,3,Tamanho inadequado
+2025-06,TX010,3,Troca por cor/modelo
+2025-07,TX010,3,Defeito de costura
+2025-08,TX010,3,Tamanho inadequado
+2025-09,TX010,4,Defeito de costura
+2025-10,TX010,2,Tamanho inadequado
+2025-11,TX010,2,Tamanho inadequado
+2025-12,TX010,2,Defeito de costura
+2025-01,TX011,1,Troca por cor/modelo
+2025-02,TX011,2,Tamanho inadequado
+2025-03,TX011,2,Avaria no transporte
+2025-04,TX011,4,Tamanho inadequado
+2025-05,TX011,2,Tamanho inadequado
+2025-06,TX011,3,Tamanho inadequado
+2025-07,TX011,5,Tamanho inadequado
+2025-08,TX011,4,Tamanho inadequado
+2025-09,TX011,4,Avaria no transporte
+2025-10,TX011,3,Troca por cor/modelo
+2025-11,TX011,3,Tamanho inadequado
+2025-12,TX011,2,Tamanho inadequado
+2025-01,TX012,2,Avaria no transporte
+2025-02,TX012,1,Tamanho inadequado
+2025-03,TX012,2,Tamanho inadequado
+2025-04,TX012,2,Tamanho inadequado
+2025-05,TX012,3,Defeito de costura
+2025-06,TX012,3,Defeito de costura
+2025-07,TX012,6,Tamanho inadequado
+2025-08,TX012,4,Troca por cor/modelo
+2025-09,TX012,6,Defeito de costura
+2025-10,TX012,4,Tamanho inadequado
+2025-11,TX012,2,Tamanho inadequado
+2025-12,TX012,2,Tamanho inadequado
+2025-01,TX013,3,Tamanho inadequado
+2025-02,TX013,3,Troca por cor/modelo
+2025-03,TX013,3,Defeito de costura
+2025-04,TX013,4,Avaria no transporte
+2025-05,TX013,2,Troca por cor/modelo
+2025-06,TX013,3,Avaria no transporte
+2025-07,TX013,4,Troca por cor/modelo
+2025-08,TX013,2,Troca por cor/modelo
+2025-09,TX013,3,Avaria no transporte
+2025-10,TX013,2,Defeito de costura
+2025-11,TX013,4,Tamanho inadequado
+2025-12,TX013,2,Troca por cor/modelo
+2025-01,TX014,7,Troca por cor/modelo
+2025-02,TX014,6,Troca por cor/modelo
+2025-03,TX014,6,Tamanho inadequado
+2025-04,TX014,6,Tamanho inadequado
+2025-05,TX014,8,Tamanho inadequado
+2025-06,TX014,5,Troca por cor/modelo
+2025-07,TX014,5,Troca por cor/modelo
+2025-08,TX014,6,Tamanho inadequado
+2025-09,TX014,8,Troca por cor/modelo
+2025-10,TX014,8,Defeito de costura
+2025-11,TX014,4,Tamanho inadequado
+2025-12,TX014,6,Tamanho inadequado
+2025-01,TX015,4,Tamanho inadequado
+2025-02,TX015,3,Avaria no transporte
+2025-03,TX015,4,Defeito de costura
+2025-04,TX015,3,Tamanho inadequado
+2025-05,TX015,4,Troca por cor/modelo
+2025-06,TX015,4,Avaria no transporte
+2025-07,TX015,5,Troca por cor/modelo
+2025-08,TX015,3,Defeito de costura
+2025-09,TX015,4,Tamanho inadequado
+2025-10,TX015,3,Tamanho inadequado
+2025-11,TX015,4,Tamanho inadequado
+2025-12,TX015,3,Tamanho inadequado
