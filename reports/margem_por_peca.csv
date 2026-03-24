@@ -1,4 +1,4 @@
-sku,produto,categoria,colecao,custo_unitario,preco_venda,margem_unitaria_rs,margem_pct
+﻿sku,produto,categoria,colecao,custo_unitario,preco_venda,margem_unitaria_rs,margem_pct
 TX010,Casaco Lã Blend,Casacos,Inverno 2025,92.0,219.9,127.9,58.16
 TX007,Jaqueta Jeans Classic,Jaquetas,Outono 2025,70.0,159.9,89.9,56.22
 TX012,Calça Térmica Flex,Calças,Inverno 2025,58.0,139.9,81.9,58.54
